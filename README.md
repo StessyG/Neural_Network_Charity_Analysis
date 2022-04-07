@@ -23,6 +23,8 @@ The activation functions were set as follow because the sigmoid function perform
 - The target model performance was not achieved. The model accuracy was 0.66, while the model loss was 0.74.
 
 
+![image1](https://github.com/StessyG/Neural_Network_Charity_Analysis/blob/514aadf7a4643f7b6572cb191fb8ffaec85bbe9a/Resources/images/image1_nm.png)
+
 
 - To increase the model performance and the predictive accuracy, three different attempts were made:
 
@@ -31,18 +33,23 @@ The activation functions were set as follow because the sigmoid function perform
     - 80 neurons(first layer), 30 neurons(second layer) and 20 neurons(third layer)
     - Used relu and sigmoid activation functions for the hidden layers and sigmoid activation function for the output layer
 
+![image2](https://github.com/StessyG/Neural_Network_Charity_Analysis/blob/514aadf7a4643f7b6572cb191fb8ffaec85bbe9a/Resources/images/image2_nm.png)
 
 - Second attempt: Additional hidden layers were added 
     - 3 hidden layers
     - 80 neurons(first layer), 30 neurons(second layer) and 20 neurons(third layer)
     - Used relu and sigmoid activation functions for the hidden layers and sigmoid activation function for the output layer
-
+    
+    
+![image3](https://github.com/StessyG/Neural_Network_Charity_Analysis/blob/514aadf7a4643f7b6572cb191fb8ffaec85bbe9a/Resources/images/image3_nm.png)
 
 - Third attempt: Additional neurons were added to hidden layers
     - 2 hidden layers
     - 90 neurons(first layer) and 55 neurons(second layer)
     - Used relu activation function for the hidden layers and sigmoid activation function for the output layer
 
+
+![image4](https://github.com/StessyG/Neural_Network_Charity_Analysis/blob/514aadf7a4643f7b6572cb191fb8ffaec85bbe9a/Resources/images/image4_nm.png)
 
 
 
