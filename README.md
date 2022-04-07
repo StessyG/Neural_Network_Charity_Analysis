@@ -1,11 +1,11 @@
 # Neural_Network_Charity_Analysis
-# Overview of the analysis: Explain the purpose of this analysis.
+# Overview of the analysis:
 
 Alphabet Soup raised and donates money 
 The purpose of this analysis is to use a mathematical data driven solution to help Alphabet Soup predict which organizations are worth donating to, and which are too high-risk. The analysis focuses on designing and training a deep learning neural network.
 During the analysis, we created a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
 
-# Results: Using bulleted lists and images to support your answers, address the following questions.
+# Results:
 
 1. Data Preprocessing
 
