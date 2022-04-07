@@ -53,5 +53,9 @@ The activation functions were set as follow because the sigmoid function perform
 
 
 
-# Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+# Summary: 
+
+Overall, he target model performance remained hard to achieve during this analysis. The model accuracy was 66%, and it did not improve throughout the analysis.
+Although the last 3 attempts to improve the model performance did not increase the accuracys score- all 3 returned an accuracy score lower than the one found at the beginning, it is obvious that increasing the number of hidden layers decreases the loss. 
+In the future, adding more hidden layers and increasing the number of neurons at the same would increase the model performance.
 
